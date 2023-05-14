@@ -2,7 +2,7 @@
 > A simple tool that can help you port WebExtensions to Firefox easily.  
 
 * Now using unzip-crx-3 library to fix `Uncaught (in promise) Error: Unexpected crx format version number.`
-* https://github.com/bobby1030/crx-to-xpi/issues/3#issue-705027055
+* https://github.com/bobby1030/crx-to-xpi/issues/3
 
 [![npm version](https://badge.fury.io/js/crx-to-xpi.svg)](https://www.npmjs.com/package/crx-to-xpi)
 
