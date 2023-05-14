@@ -1,7 +1,7 @@
 #! /usr/bin/env node
 
 const fs = require('fs-extra');
-const crx = require('unzip-crx');
+const crx = require('unzip-crx-3');
 const archiver = require('archiver');
 const path = require('path');
 
